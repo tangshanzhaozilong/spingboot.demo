@@ -22,4 +22,3 @@ public class Main {
         SpringApplication.run(Main.class);
     }
 }
-测试
